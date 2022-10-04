@@ -21,3 +21,5 @@ git checkout "название ветки" - переход к другой ве
 git branch -d "название ветки" - удалить ветку.
 
 ! [Графический пример команд] (Primer.jpg)
+
+git branch -d branch to delete - удаление ветки
