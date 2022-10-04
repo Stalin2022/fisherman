@@ -29,4 +29,6 @@ git checkout branch_name - переключение на конкретную в
 
 git log --graph - список коммитов в виде красивого графа/дерева
 
+git branch new_branch_name - создание новой ветки
+git branch -d branch to delete - удаление ветки
 git merge branch_name - сливает ветку с именем branch_name с текущей веткой.
