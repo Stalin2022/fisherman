@@ -23,3 +23,4 @@ git branch -d "название ветки" - удалить ветку.
 ! [Графический пример команд] (Primer.jpg)
 
 git branch new_branch_name - создание новой ветки
+git branch -d branch to delete - удаление ветки
